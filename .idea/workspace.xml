@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ebc63edc-3ee4-4e48-84ca-419d4e3226f4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/filetest.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="webtest.iws" />
@@ -67,10 +67,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="26" selection-start="272" selection-end="272" vertical-scroll-proportion="0.26984128" vertical-offset="0" max-vertical-offset="882">
+            <state line="16" column="7" selection-start="288" selection-end="288" vertical-scroll-proportion="-10.461538" vertical-offset="0" max-vertical-offset="374">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="filetest.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/filetest.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="7" selection-start="126" selection-end="126" vertical-scroll-proportion="0.15419501" vertical-offset="0" max-vertical-offset="882">
               <folding />
             </state>
           </provider>
@@ -91,6 +100,7 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/filetest.html" />
       </list>
     </option>
   </component>
@@ -424,17 +434,21 @@
       <updated>1395918508093</updated>
       <workItem from="1395918509597" duration="261000" />
       <workItem from="1395923949117" duration="1698000" />
-      <workItem from="1396001920209" duration="271000" />
+      <workItem from="1396001920209" duration="354000" />
     </task>
     <task id="LOCAL-00001" summary="intellij?&#10;">
       <created>1396002114895</created>
       <updated>1396002114895</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="intellij?&#10;is working">
+      <created>1396002204689</created>
+      <updated>1396002204689</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2230000" />
+    <option name="totallyTimeSpent" value="2313000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="960" height="1040" extended-state="0" />
@@ -481,7 +495,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="intellij?&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="intellij?&#10;" />
+    <MESSAGE value="intellij?&#10;is working" />
+    <option name="LAST_COMMIT_MESSAGE" value="intellij?&#10;is working" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -503,7 +518,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="26" selection-start="272" selection-end="272" vertical-scroll-proportion="0.26984128" vertical-offset="0" max-vertical-offset="882">
+        <state line="16" column="7" selection-start="288" selection-end="288" vertical-scroll-proportion="-10.461538" vertical-offset="0" max-vertical-offset="374">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/filetest.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="7" selection-start="126" selection-end="126" vertical-scroll-proportion="0.15419501" vertical-offset="0" max-vertical-offset="882">
           <folding />
         </state>
       </provider>
