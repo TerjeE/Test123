@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ebc63edc-3ee4-4e48-84ca-419d4e3226f4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/filetest.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/filetest.html" afterPath="$PROJECT_DIR$/filetest.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="webtest.iws" />
@@ -79,7 +79,7 @@
       <file leaf-file-name="filetest.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/filetest.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="7" selection-start="126" selection-end="126" vertical-scroll-proportion="0.15419501" vertical-offset="0" max-vertical-offset="882">
+            <state line="7" column="22" selection-start="133" selection-end="133" vertical-scroll-proportion="0.13492064" vertical-offset="0" max-vertical-offset="882">
               <folding />
             </state>
           </provider>
@@ -434,7 +434,7 @@
       <updated>1395918508093</updated>
       <workItem from="1395918509597" duration="261000" />
       <workItem from="1395923949117" duration="1698000" />
-      <workItem from="1396001920209" duration="354000" />
+      <workItem from="1396001920209" duration="526000" />
     </task>
     <task id="LOCAL-00001" summary="intellij?&#10;">
       <created>1396002114895</created>
@@ -444,11 +444,15 @@
       <created>1396002204689</created>
       <updated>1396002204689</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added filetest.html&#10;for testing purposes">
+      <created>1396002297504</created>
+      <updated>1396002297504</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2313000" />
+    <option name="totallyTimeSpent" value="2485000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="960" height="1040" extended-state="0" />
@@ -496,7 +500,8 @@
     </option>
     <MESSAGE value="intellij?&#10;" />
     <MESSAGE value="intellij?&#10;is working" />
-    <option name="LAST_COMMIT_MESSAGE" value="intellij?&#10;is working" />
+    <MESSAGE value="added filetest.html&#10;for testing purposes" />
+    <option name="LAST_COMMIT_MESSAGE" value="added filetest.html&#10;for testing purposes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -525,7 +530,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/filetest.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="7" selection-start="126" selection-end="126" vertical-scroll-proportion="0.15419501" vertical-offset="0" max-vertical-offset="882">
+        <state line="7" column="22" selection-start="133" selection-end="133" vertical-scroll-proportion="0.13492064" vertical-offset="0" max-vertical-offset="882">
           <folding />
         </state>
       </provider>
