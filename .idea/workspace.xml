@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ebc63edc-3ee4-4e48-84ca-419d4e3226f4" name="Default" comment="added filetest.html&#10;for testing purposes&#10;">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/filetest.html" afterPath="$PROJECT_DIR$/filetest.html" />
+    <list default="true" id="ebc63edc-3ee4-4e48-84ca-419d4e3226f4" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="webtest.iws" />
@@ -79,7 +78,7 @@
       <file leaf-file-name="filetest.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/filetest.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="34" selection-start="169" selection-end="169" vertical-scroll-proportion="0.17811409" vertical-offset="0" max-vertical-offset="859">
+            <state line="11" column="30" selection-start="201" selection-end="201" vertical-scroll-proportion="0.217695" vertical-offset="0" max-vertical-offset="859">
               <folding />
             </state>
           </provider>
@@ -434,7 +433,7 @@
       <updated>1395918508093</updated>
       <workItem from="1395918509597" duration="261000" />
       <workItem from="1395923949117" duration="1698000" />
-      <workItem from="1396001920209" duration="659000" />
+      <workItem from="1396001920209" duration="835000" />
     </task>
     <task id="LOCAL-00001" summary="intellij?&#10;">
       <created>1396002114895</created>
@@ -452,11 +451,19 @@
       <created>1396002451188</created>
       <updated>1396002451188</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="only to testBranch2000">
+      <created>1396002599091</created>
+      <updated>1396002599091</updated>
+    </task>
+    <task id="LOCAL-00006" summary="only to testBranch2000&#10;">
+      <created>1396002754255</created>
+      <updated>1396002754255</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2618000" />
+    <option name="totallyTimeSpent" value="2794000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="960" height="1040" extended-state="0" />
@@ -506,7 +513,9 @@
     <MESSAGE value="intellij?&#10;is working" />
     <MESSAGE value="added filetest.html&#10;for testing purposes" />
     <MESSAGE value="added filetest.html&#10;for testing purposes&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="added filetest.html&#10;for testing purposes&#10;" />
+    <MESSAGE value="only to testBranch2000" />
+    <MESSAGE value="only to testBranch2000&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="only to testBranch2000&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -535,7 +544,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/filetest.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="34" selection-start="169" selection-end="169" vertical-scroll-proportion="0.17811409" vertical-offset="0" max-vertical-offset="859">
+        <state line="11" column="30" selection-start="201" selection-end="201" vertical-scroll-proportion="0.217695" vertical-offset="0" max-vertical-offset="859">
           <folding />
         </state>
       </provider>
